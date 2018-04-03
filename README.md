@@ -1,6 +1,6 @@
 
 
-MongoDB-PHP Connection file
+MongoDB-PHP Class Connection file
 
 This class file is usefull for
 
